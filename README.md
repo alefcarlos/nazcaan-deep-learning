@@ -13,7 +13,7 @@ Jogando `Ni No Kuni` vi a oportunidade de aprender deep learning ao criar um int
 Após instalar o Anaconda é possível criar um novo ambiente para segregar nossos testes
 
 ```
-conda create -n tf
+conda create -n tf pip
 conda activate tf
 conda install -c anaconda tensorflow 
 conda install matplotlib
